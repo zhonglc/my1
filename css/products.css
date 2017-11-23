@@ -1,0 +1,21 @@
+body{
+  font-family: 'Exo', sans-serif;
+}
+.top-nav ul>li:nth-child(2) a{
+  color:#ff9900;
+}
+.banner-in h1{
+  margin:0;
+  position: absolute;
+  top:2em;
+  color:#fff;
+}
+.banner-in h1 span{
+  color:#ff9900;
+}
+.banner-in{
+  position: relative;
+  min-height:200px;
+  background: url(../images/banner.jpg)no-repeat center;
+  background-size: cover;
+}
